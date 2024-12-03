@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\Conexion BD Oracle\Conexion BD Oracle\obj\Debug\Conexion BD Oracle.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Conexion BD Oracle\Conexion BD Oracle\obj\Debug\Conexion BD Oracle.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\Conexion BD Oracle\Conexion BD Oracle\obj\Debug\Conexion_BD_Oracle.Form1.resources
+C:\Users\Usuario\Documents\Conexion BD Oracle\Conexion BD Oracle\obj\Debug\Conexion_BD_Oracle.Properties.Resources.resources
+C:\Users\Usuario\Documents\Conexion BD Oracle\Conexion BD Oracle\obj\Debug\Conexion BD Oracle.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Conexion BD Oracle\Conexion BD Oracle\obj\Debug\Conexion BD Oracle.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Conexion BD Oracle\Conexion BD Oracle\bin\Debug\Conexion BD Oracle.exe.config
+C:\Users\Usuario\Documents\Conexion BD Oracle\Conexion BD Oracle\bin\Debug\Conexion BD Oracle.exe
+C:\Users\Usuario\Documents\Conexion BD Oracle\Conexion BD Oracle\bin\Debug\Conexion BD Oracle.pdb
+C:\Users\Usuario\Documents\Conexion BD Oracle\Conexion BD Oracle\obj\Debug\Conexion BD Oracle.exe
+C:\Users\Usuario\Documents\Conexion BD Oracle\Conexion BD Oracle\obj\Debug\Conexion BD Oracle.pdb
